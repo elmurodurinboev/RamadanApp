@@ -1,4 +1,4 @@
-const newYearTime = new Date("1 Jan 2024");
+const newYearTime = new Date("9 March 2024");
 const day = document.querySelector('.left-day');
 const hour = document.querySelector('.left-hour');
 const minut = document.querySelector('.left-minut');
